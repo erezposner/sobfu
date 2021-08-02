@@ -1,0 +1,13 @@
+freetype-py
+open3d
+opencv-python
+pip
+trimesh
+scipy
+imageio
+matplotlib
+scikit-image
+pybind11
+kornia
+cupy==6.0.0
+tqdm
